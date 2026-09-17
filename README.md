@@ -36,12 +36,12 @@
 
 ```text
 vehicle-object-counter-yolov8/
-my-project/
-│
+|
 ├── README.md
 ├── main.py
 ├── requirements.txt
 ├── vehicle-object-counter-yolov8.ipynb
+├── LICENCE
 
 ```
 ---
