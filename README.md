@@ -100,7 +100,7 @@ To enhance visual legibility and evaluation presentation, OpenCV routines genera
 
 | 1. Original Input Image | 2. Cyberpunk HUD Detection Output |
 | :---: | :---: |
-| <img src="https://drive.google.com/file/d/1bbq423wlg8D3OAdZNaBq_LJkjPcGeS4s/view?usp=sharing" width="400" alt="Original Input Image"/> | <img src="https://drive.google.com/file/d/1BIXNAjxvu_shhK4tnoNX-A6Juvo5Ifg4/view?usp=sharing" width="400" alt="HUD Processed Image"/> |
+| <a href="https://drive.google.com/file/d/1bbq423wlg8D3OAdZNaBq_LJkjPcGeS4s/view?usp=sharing" target="_blank"><img src="https://drive.google.com/thumbnail?id=1bbq423wlg8D3OAdZNaBq_LJkjPcGeS4s&sz=w1000" width="400" alt="Original Input Image"/></a> | <a href="https://drive.google.com/file/d/1BIXNAjxvu_shhK4tnoNX-A6Juvo5Ifg4/view?usp=sharing" target="_blank"><img src="https://drive.google.com/thumbnail?id=1BIXNAjxvu_shhK4tnoNX-A6Juvo5Ifg4&sz=w1000" width="400" alt="HUD Processed Image"/></a> |
 
 </div>
 
