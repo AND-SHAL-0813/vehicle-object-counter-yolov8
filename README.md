@@ -36,16 +36,13 @@
 
 ```text
 vehicle-object-counter-yolov8/
-│── .gitignore                          # Excludes bytecode, checkpoints, and weights
-│── LICENSE                             # MIT Open-Source License
-│── README.md                           # Documentation
-│── requirements.txt                    # Dependency list
-│── vehicle_object_counter_yolov8.ipynb # Primary 5-Cell Colab Notebook
-├── inputs/                             # Raw input images
-│   └── sample_traffic.jpg
-└── outputs/                            # Processed vision outputs & logs
-    ├── annotated_traffic.jpg
-    └── vehicle_counts.csv
+my-project/
+│
+├── README.md
+├── main.py
+├── requirements.txt
+├── vehicle-object-counter-yolov8.ipynb
+
 ```
 ---
 ###  PROJECT METADATA
